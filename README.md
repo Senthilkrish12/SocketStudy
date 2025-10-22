@@ -1,10 +1,10 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 ## NAME: SENTHIL RAJ G
 ## REG NO : 212224100054
 
 
 ## Aim: 
-To write a python program to perform sliding window protocol
+To write a python program to perform stop and wait protocol
 ## ALGORITHM:
 ALGORITHM:
 1. Start the program.
